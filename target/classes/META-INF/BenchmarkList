@@ -1,0 +1,2 @@
+JMH S 57 com.wq.javashizhan.parallelDemo.SequentialStreamBenchmark S 84 com.wq.javashizhan.parallelDemo.generated.SequentialStreamBenchmark_rangeSum_jmhTest S 8 rangeSum S 11 AverageTime E A 1 1 1 E E E E E E E I 1 2 E E L 2 6 -Xms2G 6 -Xms2G E E E U 12 MILLISECONDS E E 
+JMH S 55 com.wq.javashizhan.parallelDemo.ParallelStreamBenchmark S 82 com.wq.javashizhan.parallelDemo.generated.ParallelStreamBenchmark_rangeSum_jmhTest S 8 rangeSum S 11 AverageTime E A 1 1 1 E E E E E E E I 1 2 E E L 2 6 -Xms2G 6 -Xms2G E E E U 12 MILLISECONDS E E 
